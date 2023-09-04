@@ -18,5 +18,5 @@ class Speaker {
 }
 
 const speaker = new Speaker("john");
-speaker.message = "hello";
+// speaker.message = "hello";
 console.log(speaker.Message);
